@@ -79,8 +79,8 @@ The goal of this internship was to build a strong foundation in artificial intel
 
 1.  **Clone the repository:**
     ```bash
-    git clone (my repository's link)
-    cd YOUR_REPO_NAME
+    git clone https://github.com/Abdullah-Tariq-10/AI-ML-Internee-Tasks
+    cd AI-ML-Internee-Tasks
     ```
 
 2.  **Install dependencies:**
