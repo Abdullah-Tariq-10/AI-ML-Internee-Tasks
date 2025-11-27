@@ -5,7 +5,7 @@
 ## 📌 Internship Overview
 This repository contains the complete portfolio of tasks submitted for the **AI/ML Engineering Internship at DevelopersHub Corporation**.
 
-The goal of this internship was to build a strong foundation in artificial intelligence and machine learning by tackling real-world problems. The projects range from fundamental data exploration and classical regression/classification to advanced large language model (LLM) fine-tuning and prompt engineering.
+The goal of this internship is to build a strong foundation in artificial intelligence and machine learning by tackling real-world problems. The projects range from fundamental data exploration and classical regression/classification to advanced large language model (LLM) fine-tuning and prompt engineering.
 
 **Status:** ✅ All 6 Tasks Completed  
 **Due Date:** 28th November 2025
