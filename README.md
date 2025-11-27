@@ -20,8 +20,8 @@ The goal of this internship was to build a strong foundation in artificial intel
 | **2. Stock Prediction** | Predict next-day closing price (AAPL) | Linear Regression (Time Series) | **R² $\approx$ 0.96**. High accuracy due to market continuity (predicting near previous close). |
 | **3. Heart Disease** | Predict heart disease risk (Binary) | Logistic Regression | **ROC-AUC $\approx$ 0.94**. Key risk factors identified: `cp` (chest pain) and `ca` (vessels). |
 | **4. Health Chatbot** | Answer general health queries safely | Mistral-7B (Hugging Face API) | Implemented strict **Prompt Engineering** guardrails and mandatory medical disclaimers. |
-| **5. Empathetic Bot** | Fine-tune LLM for mental health support | DistilGPT2 (Fine-Tuned) | Successfully specialized a small model to use empathetic language using the **EmpatheticDialogues** dataset. |
-| **6. House Prices** | Predict property prices | Linear Regression vs. Gradient Boosting | **Linear Regression** outperformed GB (MAE: \$243k), suggesting the dataset patterns were predominantly linear. |
+| **5. Empathetic Bot** | Fine-tune LLM for mental health support | **Qwen 1.5B (QLoRA, PEFT)** | Fine-tuned an instruction model to prioritize validation over advice; implemented hard safety guardrails. |
+| **6. House Prices** | Predict property prices | Linear Regression vs. Gradient Boosting | **Linear Regression** outperformed GB (MAE: $\approx$ \$243k), indicating the dataset patterns were predominantly linear. |
 
 ---
 
